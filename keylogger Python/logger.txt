@@ -1,0 +1,1 @@
+Key.shift_rLKey.escalmaKey.backspaceKey.ctrl_l\x13Key.ctrl_l\x01Key.backspaceKey.spaceKey.ctrl_l\x1aKey.ctrl_l\x13
